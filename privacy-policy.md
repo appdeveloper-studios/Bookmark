@@ -79,7 +79,25 @@ We may update this policy from time to time. The revised policy will be posted i
 
 ## 11. Contact
 
-If you have questions about this policy or the app, contact:
+If you want us to delete your account and associated data, you can request it
+from within the app or by contacting us through the link below. When you make a
+request, we delete the data tied to your account: your saves, collections,
+reminders, and the content you saved in them, plus your account information, such
+as your email address. We do not keep that data after the request is processed,
+except where we are required to retain it by law. If you used a third-party AI
+feature, some information may have been sent to that provider; we do not control
+retention on their side. Please allow a reasonable time for the request to be
+processed.
+
+To request account deletion, use this link:
+https://github.com/appdeveloper-studios/Bookmark/issues/new?template=account-deletion.md
+
+To request that we delete personal data from any third-party service we use, use
+the same link and tell us which service.
+
+Display per store listing: Enabled.
+
+If you have any other questions about this policy or the app, contact:
 
 **appdeveloper-studios**  
 Repository: https://github.com/appdeveloper-studios/Bookmark
